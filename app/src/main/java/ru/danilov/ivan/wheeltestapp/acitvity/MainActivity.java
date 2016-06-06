@@ -54,7 +54,11 @@ public class MainActivity extends AbstractActivity {
                 descriptionAdapter.setItemList(items.get(wheel.getCurrentItem()).getMediaDescs());
             }
         });
-        rvGallery.setCyclic(true);
+        if (adapter.getItemsCount()<5){
+            rvGallery.setCyclic(false);
+        }else {
+            rvGallery.setCyclic(true);
+        }
         rvGallery.setEnabled(true);
         rvGallery.setVertical(false);
     }

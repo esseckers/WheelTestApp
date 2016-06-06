@@ -10,7 +10,6 @@ import android.widget.TextView;
 
 import java.util.List;
 
-import kankan.wheel.widget.WheelView;
 import kankan.wheel.widget.adapters.AbstractWheelAdapter;
 import ru.danilov.ivan.wheeltestapp.R;
 import ru.danilov.ivan.wheeltestapp.model.MediaItem;
