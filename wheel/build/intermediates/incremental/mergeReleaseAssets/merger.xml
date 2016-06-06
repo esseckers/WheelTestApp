@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\workplace\workplace_MAIN\WheelTestApp\wheel\assets"/><source path="C:\workplace\workplace_MAIN\WheelTestApp\wheel\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="C:\workplace\workplace_MAIN\WheelTestApp\wheel\build-types\release\assets"/></dataSet></merger>

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "genre": "Ужасы",
+    "imgUrl": "R.drawable.photo_3"
+  },
+  {
+    "id": 2,
+    "genre": "Драмы",
+    "imgUrl": "R.drawable.photo_1"
+  },
+  {
+    "id": 3,
+    "genre": "Боевики",
+    "imgUrl": "R.drawable.photo_2"
+  },
+  {
+    "id": 4,
+    "genre": "Фэнтази",
+    "imgUrl": "R.drawable.big_photo_3"
+  },
+  {
+    "id": 5,
+    "genre": "Документальные",
+    "imgUrl": "R.drawable.big_photo_2"
+  },
+  {
+    "id": 6,
+    "genre": "Документальные",
+    "imgUrl": "R.drawable.big_photo_1"
+  }
+]
